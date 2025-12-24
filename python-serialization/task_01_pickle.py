@@ -49,4 +49,3 @@ class CustomObject:
             return obj
         except Exception:
             return None
-
